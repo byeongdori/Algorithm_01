@@ -6,6 +6,7 @@
 
 ### 1. Model
 ![1-1](https://user-images.githubusercontent.com/33740149/121635222-d8841b00-cac0-11eb-8f34-fd8e7bae46ab.PNG)
+
 ![1-1-1](https://user-images.githubusercontent.com/33740149/121635542-66f89c80-cac1-11eb-8bd8-b0453f67bf93.PNG)
 
 ### 2. Training with Training loss
